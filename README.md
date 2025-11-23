@@ -9,8 +9,8 @@ This framework combines metallurgical evolution equations (dislocation density, 
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/MMIANN.git
-cd MMIANN
+git clone https://github.com/yyang-str/mmiann.git
+cd mmiann
 pip install -r requirements.txt
 ```
 
